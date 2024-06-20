@@ -92,7 +92,7 @@ const AboutProduct = () => {
                     width={45}
                     height={1000}
                     alt="logo"
-                    className="gradient-blue p-2 rounded-lg"
+                    className="gradient-blue p-2 rounded-lg brightness-200"
                   />
                 </div>
                 <div className="flex flex-col justify-center">

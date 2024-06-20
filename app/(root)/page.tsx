@@ -1,4 +1,5 @@
 import AboutProduct from "@/components/shared/AboutProudct";
+import Footer from "@/components/shared/Footer";
 import Header from "@/components/shared/Header";
 import Hero from "@/components/shared/Hero";
 import { Button } from "@/components/ui/button";
@@ -11,6 +12,7 @@ const HomePage = () => {
       <Header />
       <Hero />
       <AboutProduct />
+      <Footer />
     </section>
   );
 };

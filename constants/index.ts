@@ -60,18 +60,19 @@ export const features = [
   {
       imgUrl: '/assets/svg/chat.svg',
       title: 'ChatGPT',
-      desc: 'When using variants, children animations will start after this duration (in seconds). You can add the transition property to both the Frame and the variant directly. ',
+      desc: 'ChatGPT is a powerful language model that can answer questions and provide detailed information.',
   },
   {
-      imgUrl: '/assets/svg/chat.svg',
+      imgUrl: '/assets/svg/chatsquare.svg',
       title: 'ChatGPT',
-      desc: 'When using variants, children animations will start after this duration (in seconds). You can add the transition property to both the Frame and the variant directly. ',
+      desc: 'Text Summary is a powerful language model that can summarize your text.',
   },
   {
-      imgUrl: '/assets/svg/chat.svg',
+      imgUrl: '/assets/svg/image.svg',
       title: 'ChatGPT',
-      desc: 'When using variants, children animations will start after this duration (in seconds). You can add the transition property to both the Frame and the variant directly. ',
+      desc: 'Text to Image is a powerful language model that can generate an image from text.',
   },
+  
   
 ]
 
